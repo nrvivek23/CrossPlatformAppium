@@ -10,9 +10,9 @@ import java.util.List;
  * Created by mmadhusoodan on 11/9/15.
  */
 
-public class TestTEST {
+public class TEST {
 
-    final private static Logger log = Logger.getLogger(TestTEST.class);
+    final private static Logger log = Logger.getLogger(TEST.class);
 
     String[] StringSplit(String a, String b) {
 
