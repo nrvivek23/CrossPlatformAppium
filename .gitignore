@@ -17,7 +17,8 @@ src/test/java/.DS_Store
 .classpath
 .settings/
 .loadpath
-idea/compiler.xml
+.idea/
+.idea/compiler.xml
 .idea/.name
 .idea/misc.xml
 .idea/modules.xml
